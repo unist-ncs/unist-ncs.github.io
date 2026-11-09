@@ -1,14 +1,18 @@
 ---
 layout: splash
-title: "Nonlinear Complex System Laboratory"
-excerpt: "Understanding complexity through nonlinear dynamics and reservoir computing."
+title: ""
+excerpt: ""
 classes: wide
 author_profile: false
-header:
-  overlay_image: "/assets/images/lab-header.jpeg"
-  overlay_color: "#102a43"
-  overlay_filter: "0.32"
 ---
+
+<div class="home-hero">
+  <img src="{{ '/assets/images/lab-header.jpeg' | relative_url }}" alt="Members of the Nonlinear Complex System Laboratory">
+  <div class="home-hero__caption">
+    <h1>Nonlinear Complex System Laboratory</h1>
+    <p>UNIST Department of Mathematical Sciences</p>
+  </div>
+</div>
 
 ## From neural dynamics to chaos
 
