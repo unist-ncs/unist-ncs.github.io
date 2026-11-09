@@ -5,8 +5,9 @@ excerpt: "Understanding complexity through nonlinear dynamics and reservoir comp
 classes: wide
 author_profile: false
 header:
+  image: "/assets/images/lab-header.jpeg"
   overlay_color: "#102a43"
-  overlay_filter: "0.08"
+  overlay_filter: "0.32"
 ---
 
 ## From neural dynamics to chaos
