@@ -27,10 +27,11 @@
   email: "ok63933@unist.ac.kr"
   photo: "/assets/images/members/jaejin-lee.jpeg"
 
-- name: "Taehyoung Kim"
+- name: "Taehyeong Kim"
   group: "Undergraduate Student"
   email: "taehyung0818@unist.ac.kr"
   photo: "/assets/images/members/taehyoung-kim.jpeg"
+  homepage: "https://taehyeong1001.github.io"
 
 - name: "Hyeonmin Hwang"
   group: "Undergraduate Student"
